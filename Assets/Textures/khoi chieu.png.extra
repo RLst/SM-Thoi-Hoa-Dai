@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "a9184e5f-84a1-e629-b6b8-e40739665f3f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "khoi chieu",
+    "objGuid": "Guid(17673192680614105595, 1145130116502347163)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

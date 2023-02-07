@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "b9ef70f6-6d17-5b43-e0e4-19677b1dfbec",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "anim film title",
+    "objGuid": "Guid(2973861826557696442, 10037137810317461172)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "4e2dfcd5-a83a-fa3f-9755-0912f1167bc4",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "anim galaxy",
+    "objGuid": "Guid(9098916711081394830, 17977443185864490429)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 1024
+  }
+]

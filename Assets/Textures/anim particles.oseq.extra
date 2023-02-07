@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "a7f6269b-acd5-fe2e-313a-f2f83bf4de2b",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "anim particles",
+    "objGuid": "Guid(1462858078979375731, 1303208929491621794)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]
