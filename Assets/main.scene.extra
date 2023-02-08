@@ -216,6 +216,33 @@
   },
   {
     "guid": {
+      "a": "951126c1-5e88-3f06-baec-9d18e1598e70",
+      "b": ""
+    },
+    "objGuid": "Guid(9747105972164271760, 547111121330816412)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "7cdf6bf3-8af0-d8cf-4670-2d19dc73986e",
       "b": ""
     },
@@ -631,7 +658,7 @@
     "editable": true,
     "sequence": "4e2dfcd5-a83a-fa3f-9755-0912f1167bc4",
     "targetProperty": "Albedo",
-    "playMode": 2
+    "playMode": 0
   },
   {
     "guid": {
@@ -781,7 +808,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "b45892c9-705f-8b5c-658e-fcff4961a7f0"
   },
   {
@@ -814,7 +841,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "a9184e5f-84a1-e629-b6b8-e40739665f3f"
   },
   {
@@ -847,7 +874,40 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "2ce46a30-63f9-6510-5542-bd87eefe1d84"
+  },
+  {
+    "guid": {
+      "a": "e8e8ce8c-1f7a-9e30-cf11-c5ca602140ee",
+      "b": ""
+    },
+    "objGuid": "Guid(738858147186596492, 12726725846814801568)",
+    "extraType": "Entity",
+    "name": "Bottom Items",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "e8ef6a45-d6ee-4bcb-2a0c-1591a41d3c34",
+      "b": ""
+    },
+    "objGuid": "Guid(10106605472872871132, 6469142890968060841)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "b6053183-74a7-8263-422f-5c82450516d6"
   }
 ]

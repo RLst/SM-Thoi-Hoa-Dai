@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "anim dd",
-    "objGuid": "Guid(4126485452993852556, 12755777595652839809)",
+    "objGuid": "Guid(1678138924848455306, 14392054271348613531)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

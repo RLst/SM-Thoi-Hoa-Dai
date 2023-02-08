@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "anim film title",
-    "objGuid": "Guid(2973861826557696442, 10037137810317461172)",
+    "objGuid": "Guid(1099971918873279514, 7166963980453672870)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

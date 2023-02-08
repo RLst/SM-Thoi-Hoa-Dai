@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "logo",
-    "objGuid": "Guid(8883951163269013903, 5297583178725526448)",
+    "objGuid": "Guid(9027602264074409991, 12142079964708133523)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

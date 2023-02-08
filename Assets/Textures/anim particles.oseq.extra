@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "anim particles",
-    "objGuid": "Guid(1462858078979375731, 1303208929491621794)",
+    "objGuid": "Guid(7728414668537116073, 6081315976045252236)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
